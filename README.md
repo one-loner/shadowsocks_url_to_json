@@ -7,7 +7,7 @@ Usage:
 convurltojson url_begining_with_ss:// file_to_export.json local_port(optional)      
        
 ================  RU  ====================   
-Этот мкрипт конвертирует shadowsocks URL, начинающиеся с ss:// в файл .json   
+Этот скрипт конвертирует shadowsocks URL, начинающиеся с ss:// в файл .json   
 Установка:   
 Запустите от root скрипт install.sh, если вы хотите установить англоязычную версию илиinstall_ru.sh если вы хотите установить русскоязычную версию.   
     
