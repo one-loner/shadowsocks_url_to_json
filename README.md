@@ -1,4 +1,4 @@
-================  EN  ====================
+================  EN  ====================   
 This script converts shadowsocks URL, begining with ss:// to .json file   
 Installing:   
 Run by root install.sh if you want install english version or install_ru.sh if you want to install russian version.   
