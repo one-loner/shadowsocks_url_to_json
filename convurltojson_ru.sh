@@ -77,7 +77,7 @@ password=$(echo "${chiperinfo}" | cut -c ${char_index}-)
 
 echo "{" > $2
 echo '"server":"'$ip'",' >> $2
-echo '"server_port:"'$port',' >> $2
+echo '"server_port":'$port',' >> $2
 if [ $3 ]; then
 echo '"local_port":'$3',' >>$2
 fi
